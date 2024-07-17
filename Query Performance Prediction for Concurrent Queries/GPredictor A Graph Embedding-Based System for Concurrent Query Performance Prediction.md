@@ -1,4 +1,4 @@
-### GPredictor: A Graph Embedding-Based System for Concurrent Query Performance Prediction
+# GPredictor: A Graph Embedding-Based System for Concurrent Query Performance Prediction
 
 ## 1. Introduction
 
